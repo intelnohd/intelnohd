@@ -5,7 +5,7 @@
 
         
 <h1 align="center">
-  Intel Nohd | Junior dev
+  Intel Nohd | QA Automation
   <img src="https://w7.pngwing.com/pngs/955/14/png-transparent-know-your-meme-cirno-internet-meme-meme-white-head-meme-thumbnail.png" width="30px"/>
 </h1>
 
